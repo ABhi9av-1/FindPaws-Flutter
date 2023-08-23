@@ -173,7 +173,7 @@ flutter run
     
 ## Support and Contact
 
-Email to: paridhijain0201@gmail.com
+Email to: abhi12gangwar@gmail.com
     
     
 [(Back to the top)](#-findpaws---1)
